@@ -5,3 +5,4 @@ Eğitimde anlatılanların uygulanması sonucu oluşan sayfa çalışması
 HTML5 ve CSS3 kullanılarak hazırlanmıştır.
 
 <h3>Ekran Görüntüsü</h3>
+![] (GifMaker_20230403174922363.gif)
