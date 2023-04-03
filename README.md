@@ -5,4 +5,5 @@ Eğitimde anlatılanların uygulanması sonucu oluşan sayfa çalışması
 HTML5 ve CSS3 kullanılarak hazırlanmıştır.
 
 <h3>Ekran Görüntüsü</h3>
+
 ![] (screen.gif)
